@@ -1,0 +1,17 @@
+/*
+* Theme Name: Writer
+* Theme URI: https://nishantshaligram.blogspot.com/writerwp
+* Author: Nishant Shaligram
+* Author URI: https://nishantshaligram.blogspot.com/
+* Description: Simple WordPress theme for blog website. Front-end is built over bootstrap 4 which is popular mobile reposive front-end toolkit (CSS and JS).
+* tags: blog,single-column,custom-header, dark-theme, left-sidebar, footer widget area
+* version: 0.0.1
+*/
+
+h2{
+    font-size: 32px;
+    line-height: 1.5;
+    padding-top: 16px;
+    margin-bottom: 24px;
+    color: red;
+}
